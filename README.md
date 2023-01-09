@@ -1,4 +1,4 @@
-# CSE-122 spring-23(50-6)
+# CSE-122 Spring-23(50-6)
 this is an OOP lab repot
 
 
